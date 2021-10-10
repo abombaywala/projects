@@ -1,0 +1,56 @@
+.flex-one {
+    background: white;
+    color: #1F2937;
+    height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: center
+}
+
+.flex-two {
+    background: #1F2937;
+    color: white;
+    height: 400px;
+    width: auto;
+    display: flex;
+}
+
+.flex-three {
+    background: white;
+    color: #3882F600;
+    height: 200px;
+    width: auto;
+    display: flex;
+}
+
+.flex-four {
+    background: #E5E7EB;
+    color: #1F2937;
+    height: 300px;
+    width: auto;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+
+.flex-five {
+    background :#1F2937;
+    color: white;
+    height: auto;
+    width: auto;
+    display: flex;
+    justify-content: center;
+}
+
+.copyright_text {
+    color: white;
+    font-size: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.quote {
+    font-size: auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
